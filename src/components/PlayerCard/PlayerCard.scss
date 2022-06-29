@@ -1,0 +1,67 @@
+.card{
+  &__player,&__Opponent{
+    width: 100%;
+    border: 2px solid honeydew;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  &__playerInner{
+    width: 15%;
+    display: flex;
+    height: 290px;
+    margin-top: 20px;
+  }
+  &__OpponentInner{
+    width: 15%;
+    display: flex;
+    height: 290px;
+    margin-top: 20px;
+
+  }
+  &__pItem img,&__oItem img{
+    width: 195px;
+
+  }
+  &__pItem,&__oItem{
+    position: relative;
+    width: 195px;
+
+  }
+  &__zadn{
+    position: absolute;
+    animation-name: card;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+    backface-visibility: hidden;
+    display: block;
+  }
+  &__jack{
+    animation-name: card2;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+    position: absolute;
+    backface-visibility: hidden;
+    display: block;
+    left: 0;
+    top: 0;
+  }
+
+  @keyframes card {
+    from{
+      transform: rotateY(0deg);
+    }
+    100%{
+      transform: rotateY(180deg);
+    }
+
+  }
+
+  @keyframes card2{
+    0% {
+      transform: rotateY(180deg);
+    }
+    100% {
+      transform: rotateY(360deg);
+    }
+  }
+}

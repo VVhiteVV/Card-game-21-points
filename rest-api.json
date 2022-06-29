@@ -1,0 +1,316 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "CardName": "Пика 2",
+      "Score": 2,
+      "Img": "Peak/Pica2.png"
+    },
+    {
+      "id": 2,
+      "CardName": "Пика 3",
+      "Score": 3,
+      "Img": "Peak/Pica3.png"
+    },
+    {
+      "id": 3,
+      "CardName": "Пика 4",
+      "Score": 4,
+      "Img": "Peak/Pica4.png"
+    },
+    {
+      "id": 4,
+      "CardName": "Пика 5",
+      "Score": 5,
+      "Img": "Peak/Pica5.png"
+    },
+    {
+      "id": 5,
+      "CardName": "Пика 6",
+      "Score": 6,
+      "Img": "Peak/Pica6.png"
+    },
+    {
+      "id": 6,
+      "CardName": "Пика 7",
+      "Score": 7,
+      "Img": "Peak/Pica7.png"
+    },
+    {
+      "id": 7,
+      "CardName": "Пика 8",
+      "Score": 8,
+      "Img": "Peak/Pica8.png"
+    },
+    {
+      "id": 8,
+      "CardName": "Пика 9",
+      "Score": 9,
+      "Img": "Peak/Pica9.png"
+    },
+    {
+      "id": 9,
+      "CardName": "Пика 10",
+      "Score": 10,
+      "Img": "Peak/Pica10.png"
+    },
+    {
+      "id": 10,
+      "CardName": "Пика Валет",
+      "Score": 2,
+      "Img": "Peak/PicaJeck.png"
+    },
+    {
+      "id": 11,
+      "CardName": "Пика Дама",
+      "Score": 3,
+      "Img": "Peak/PicaQueen.png"
+    },
+    {
+      "id": 12,
+      "CardName": "Пика Король",
+      "Score": 4,
+      "Img": "Peak/PicaKing.png"
+    },
+    {
+      "id": 13,
+      "CardName": "Пика Туз",
+      "Score": 11,
+      "Img": "Peak/TuzA.png"
+    },
+    {
+      "id": 14,
+      "CardName": "Бубны 2",
+      "Score": 2,
+      "Img": "Piedra/Piedra2.png"
+    },
+    {
+      "id": 15,
+      "CardName": "Бубны 3",
+      "Score": 3,
+      "Img": "Piedra/Piedra3.png"
+    },
+    {
+      "id": 16,
+      "CardName": "Бубны 4",
+      "Score": 4,
+      "Img": "Piedra/Piedra4.png"
+    },
+    {
+      "id": 17,
+      "CardName": "Бубны 5",
+      "Score": 5,
+      "Img": "Piedra/Piedra5.png"
+    },
+    {
+      "id": 18,
+      "CardName": "Бубны 6",
+      "Score": 6,
+      "Img": "Piedra/Piedra6.png"
+    },
+    {
+      "id": 19,
+      "CardName": "Бубны 7",
+      "Score": 7,
+      "Img": "Piedra/Piedra7.png"
+    },
+    {
+      "id": 20,
+      "CardName": "Бубны 8",
+      "Score": 8,
+      "Img": "Piedra/Piedra8.png"
+    },
+    {
+      "id": 21,
+      "CardName": "Бубны 9",
+      "Score": 9,
+      "Img": "Piedra/Piedra9.png"
+    },
+    {
+      "id": 22,
+      "CardName": "Бубны 10",
+      "Score": 10,
+      "Img": "Piedra/Piedra10.png"
+    },
+    {
+      "id": 23,
+      "CardName": "Бубны Валет",
+      "Score": 2,
+      "Img": "Piedra/PiedraJack.png"
+    },
+    {
+      "id": 24,
+      "CardName": "Бубны Дама",
+      "Score": 3,
+      "Img": "Piedra/PiedraQueen.png"
+    },
+    {
+      "id": 25,
+      "CardName": "Бубны Король",
+      "Score": 4,
+      "Img": "Piedra/PiedraKing.png"
+    },
+    {
+      "id": 26,
+      "CardName": "Бубны Туз",
+      "Score": 11,
+      "Img": "Piedra/TuzPiedra.png"
+    },
+    {
+      "id": 27,
+      "CardName": "Трефы 2",
+      "Score": 2,
+      "Img": "Piedra/Piedra2.png"
+    },
+    {
+      "id": 28,
+      "CardName": "Трефы 3",
+      "Score": 3,
+      "Img": "Treboles/Treboles3.png"
+    },
+    {
+      "id": 29,
+      "CardName": "Трефы 4",
+      "Score": 4,
+      "Img": "Treboles/Treboles4.png"
+    },
+    {
+      "id": 30,
+      "CardName": "Трефы 5",
+      "Score": 5,
+      "Img": "Treboles/Treboles5.png"
+    },
+    {
+      "id": 31,
+      "CardName": "Трефы 6",
+      "Score": 6,
+      "Img": "Treboles/Treboles6.png"
+    },
+    {
+      "id": 32,
+      "CardName": "Трефы 7",
+      "Score": 7,
+      "Img": "Treboles/Treboles7.png"
+    },
+    {
+      "id": 33,
+      "CardName": "Трефы 8",
+      "Score": 8,
+      "Img": "Treboles/Treboles8.png"
+    },
+    {
+      "id": 34,
+      "CardName": "Трефы 9",
+      "Score": 9,
+      "Img": "Treboles/Treboles9.png"
+    },
+    {
+      "id": 35,
+      "CardName": "Трефы 10",
+      "Score": 10,
+      "Img": "Treboles/Treboles10.png"
+    },
+    {
+      "id": 36,
+      "CardName": "Трефы Валет",
+      "Score": 2,
+      "Img": "Treboles/TrebolesJack.png"
+    },
+    {
+      "id": 37,
+      "CardName": "Трефы Дама",
+      "Score": 3,
+      "Img": "Treboles/TrebolesQueen.png"
+    },
+    {
+      "id": 38,
+      "CardName": "Трефы Король",
+      "Score": 4,
+      "Img": "Treboles/TrebolesKing.png"
+    },
+    {
+      "id": 39,
+      "CardName": "Трефы Туз",
+      "Score": 11,
+      "Img": "Treboles/TuzTreboles.png"
+    },
+    {
+      "id": 40,
+      "CardName": "Черви 2",
+      "Score": 2,
+      "Img": "Hearts/Hearts2.png"
+    },
+    {
+      "id": 41,
+      "CardName": "Черви 3",
+      "Score": 3,
+      "Img": "Hearts/Hearts3.png"
+    },
+    {
+      "id": 42,
+      "CardName": "Черви 4",
+      "Score": 4,
+      "Img": "Hearts/Hearts4.png"
+    },
+    {
+      "id": 43,
+      "CardName": "Черви 5",
+      "Score": 5,
+      "Img": "Hearts/Hearts5.png"
+    },
+    {
+      "id": 44,
+      "CardName": "Черви 6",
+      "Score": 6,
+      "Img": "Hearts/Hearts6.png"
+    },
+    {
+      "id": 45,
+      "CardName": "Черви 7",
+      "Score": 7,
+      "Img": "Hearts/Hearts7.png"
+    },
+    {
+      "id": 46,
+      "CardName": "Черви 8",
+      "Score": 8,
+      "Img": "Hearts/Hearts8.png"
+    },
+    {
+      "id": 47,
+      "CardName": "Черви 9",
+      "Score": 9,
+      "Img": "Hearts/Hearts9.png"
+    },
+    {
+      "id": 48,
+      "CardName": "Черви 10",
+      "Score": 10,
+      "Img": "Hearts/Hearts10.png"
+    },
+    {
+      "id": 49,
+      "CardName": "Черви Валет",
+      "Score": 2,
+      "Img": "Hearts/HeartsJack.png"
+    },
+    {
+      "id": 50,
+      "CardName": "Черви Дама",
+      "Score": 3,
+      "Img": "Hearts/HeartsQueen.png"
+    },
+    {
+      "id": 51,
+      "CardName": "Черви Король",
+      "Score": 4,
+      "Img": "Hearts/HeartsKing.png"
+    },
+    {
+      "id": 52,
+      "CardName": "Черви Туз",
+      "Score": 11,
+      "Img": "Hearts/TuzHearts.png"
+    }
+  ]
+}
