@@ -72,7 +72,8 @@ countScore(playerScore,opponentScore){
 
 Окно с результатом игры:
 
-![Window](https://cdn.discordapp.com/attachments/356017746787565568/991741766048948285/unknown.png)
+![Window](https://media.discordapp.net/attachments/1003370540066689175/1003375311762759690/unknown.png?width=956&height=454)
+![Window](https://media.discordapp.net/attachments/1003370540066689175/1003375539496693810/unknown.png?width=956&height=442)
 
 Так же стоят наблюдатели Watch, которые следят за очками игроков, после объявляют результат.
 ```javascript
